@@ -15,11 +15,9 @@ Descripción.
 Descripción.
 
 - Primer elemento
-- Segundo elemento
 - Tercer elemento
 - Cuarto elemento
 
 1. Primer elemento
-2. Segundo elemento
 3. Tercer elemento
 4. Cuarto elemento
