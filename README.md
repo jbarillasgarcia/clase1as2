@@ -32,4 +32,4 @@ Descripción.
 7. Séptimo elemento
 8. Octavo elemento
 8. Noveno elemento
-10. 10mo elemento
+10. Décimo elemento
