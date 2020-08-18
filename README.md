@@ -1,35 +1,21 @@
-# Clase 1 - Análisis de Sistemas II
+# Reporte 08/18/2020 02:06PM
 
-Ejemplo del uso de GitHub.com en el curso de Análisis de Sistemas 2.
+### Rango 1..10
 
-## Subtítulo 2
+- **Cantidad de procesos:** 2
+- **Memoria total:** 2397MB
 
-Descripción.
+| PID | Proceso         | Memoria |
+|-----|-----------------|---------|
+| 3   | firefox.exe     | 863MB   |
+| 7   | chrome.exe      | 1534MB  |
 
-### Subtítulo 3
+### Rango 121..30
 
-Descripción.
+- **Cantidad de procesos:** 2
+- **Memoria total:** 750MB
 
-#### Subtítulo 4
-
-Descripción.
-
-- Primer elemento
-- Tercer elemento
-- Cuarto elemento
-- Quinto elemento
-- Sexto elemento
-- Séptimo elemento
-- Octavo elemento
-- Noveno elemento
-- 10mo elemento
-
-1. Primer elemento
-3. Tercer elemento
-4. Cuarto elemento
-5. Quinto elemento
-6. Sexto elemento
-7. Séptimo elemento
-8. Octavo elemento
-8. Noveno elemento
-10. Décimo elemento
+| PID | Proceso         | Memoria |
+|-----|-----------------|---------|
+| 127 | explorer.exe    | 250MB   |
+| 129 | spotify.exe     | 500MB   |
